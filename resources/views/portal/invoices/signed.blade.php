@@ -253,7 +253,7 @@
 @endsection
 
 @push('footer_start')
-    <script src="{{ asset('public/js/portal/invoices.js?v=' . version('short')) }}"></script>
+    <script src="{{ asset('js/portal/invoices.js?v=' . version('short')) }}"></script>
     <script type="text/javascript">
         var payment_action_path = {!! json_encode($payment_actions) !!};
     </script>

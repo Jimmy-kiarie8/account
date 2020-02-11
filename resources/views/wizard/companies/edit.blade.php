@@ -45,7 +45,7 @@
                             <div class="invalid-feedback d-block" v-if="form.errors.has('api_key')" v-html="form.errors.get('api_key')"></div>
                         </div>
                         <p class="mb-0 mt--3">
-                            <small>{!! trans('modules.get_api_key', ['url' => 'https://akaunting.com/dashboard']) !!}</small>
+                            <small>{!! trans('modules.get_api_key', ['url' => 'http://127.0.0.1:8000/dashboard']) !!}</small>
                         </p>
                         <br>
                     </div>
@@ -80,5 +80,5 @@
 @endsection
 
 @push('scripts_start')
-    <script src="{{ asset('public/js/wizard/company.js?v=' . version('short')) }}"></script>
+    <script src="{{ asset('js/wizard/company.js?v=' . version('short')) }}"></script>
 @endpush

@@ -56,5 +56,5 @@
 @endsection
 
 @push('scripts_start')
-    <script src="{{ asset('public/js/purchases/payments.js?v=' . version('short')) }}"></script>
+    <script src="{{ asset('js/purchases/payments.js?v=' . version('short')) }}"></script>
 @endpush

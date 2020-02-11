@@ -53,5 +53,5 @@
 @endsection
 
 @push('scripts_start')
-    <script src="{{ asset('public/js/settings/currencies.js?v=' . version('short')) }}"></script>
+    <script src="{{ asset('js/settings/currencies.js?v=' . version('short')) }}"></script>
 @endpush

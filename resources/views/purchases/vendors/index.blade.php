@@ -111,5 +111,5 @@
 @endsection
 
 @push('scripts_start')
-    <script src="{{ asset('public/js/purchases/vendors.js?v=' . version('short')) }}"></script>
+    <script src="{{ asset('js/purchases/vendors.js?v=' . version('short')) }}"></script>
 @endpush

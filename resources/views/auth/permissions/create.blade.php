@@ -35,5 +35,5 @@
 @endsection
 
 @push('scripts_start')
-    <script src="{{ asset('public/js/auth/permissions.js?v=' . version('short')) }}"></script>
+    <script src="{{ asset('js/auth/permissions.js?v=' . version('short')) }}"></script>
 @endpush

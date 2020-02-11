@@ -4,7 +4,7 @@ return [
 
     'version'               => 'Versi',
     'powered'               => 'Didukung oleh Akaunting',
-    'link'                  => 'https://akaunting.com',
+    'link'                  => 'http://127.0.0.1:8000',
     'software'              => 'Perangkat Lunak Akutansi Gratis',
 
 ];

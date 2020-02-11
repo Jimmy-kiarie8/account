@@ -12,9 +12,9 @@ return [
     'search'                => 'Sök',
     'install'               => 'Installera',
     'buy_now'               => 'Köp nu',
-    'api_key_link'          => '<a class="text-red" href="https://akaunting.com/profile" target="_blank">Klicka här</a> för att få din API-nyckel.',
+    'api_key_link'          => '<a class="text-red" href="http://127.0.0.1:8000/profile" target="_blank">Klicka här</a> för att få din API-nyckel.',
     'no_apps'               => 'Det finns inga appar i den här kategorin ännu.',
-    'developer'             => 'Är du utvecklare? <a href="https://akaunting.com/developers" target="_blank">Här</a> kan du lära dig att skapa en app och börja sälja idag!',
+    'developer'             => 'Är du utvecklare? <a href="http://127.0.0.1:8000/developers" target="_blank">Här</a> kan du lära dig att skapa en app och börja sälja idag!',
 
     'recommended_apps'      => 'Rekommenderade appar',
 

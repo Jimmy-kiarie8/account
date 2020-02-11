@@ -107,7 +107,7 @@
                                     <div class="row align-items-center">
                                         <div class="col-auto">
                                             @if($payment->attachment)
-                                                <img src="public/img/invoice_templates/classic.png" alt="Attachment">
+                                                <img src="img/invoice_templates/classic.png" alt="Attachment">
                                             @else
                                                 <i class="far fa-file-image font-size-50"></i>
                                             @endif
@@ -140,5 +140,8 @@
 @endsection
 
 @push('scripts_start')
-    <script src="{{ asset('public/js/portal/payments.js?v=' . version('short')) }}"></script>
+    <script src="{{ asset('js/portal/payments.js?v=' . version('short')) }}"></script>
 @endpush
+
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur facere neque expedita beatae nihil eius odit dolorem quos repellat fugiat nemo architecto, alias ipsum cumque! Laboriosam, possimus. Asperiores, odio excepturi.

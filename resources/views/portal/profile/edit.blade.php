@@ -51,6 +51,6 @@
 @endsection
 
 @push('scripts_start')
-    <script src="{{ asset('public/js/portal/profile.js?v=' . version('short')) }}"></script>
+    <script src="{{ asset('js/portal/profile.js?v=' . version('short')) }}"></script>
 @endpush
 

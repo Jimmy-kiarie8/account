@@ -204,5 +204,5 @@
         var invoice_items = false;
     </script>
 
-    <script src="{{ asset('public/js/sales/invoices.js?v=' . version('short')) }}"></script>
+    <script src="{{ asset('js/sales/invoices.js?v=' . version('short')) }}"></script>
 @endpush

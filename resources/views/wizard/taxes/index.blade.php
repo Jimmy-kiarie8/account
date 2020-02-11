@@ -127,5 +127,5 @@
         var taxes = {!! json_encode($taxes->items()) !!}
     </script>
 
-    <script src="{{ asset('public/js/wizard/taxes.js?v=' . version('short')) }}"></script>
+    <script src="{{ asset('js/wizard/taxes.js?v=' . version('short')) }}"></script>
 @endpush

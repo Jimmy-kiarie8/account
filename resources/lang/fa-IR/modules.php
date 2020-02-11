@@ -12,9 +12,9 @@ return [
     'search'                => 'جستجو',
     'install'               => 'نصب',
     'buy_now'               => 'خرید',
-    'token_link'            => '<a href="https://akaunting.com/tokens" target="_blank">دریافت Token</a>.',
+    'token_link'            => '<a href="http://127.0.0.1:8000/tokens" target="_blank">دریافت Token</a>.',
     'no_apps'               => 'در این بخش هیچ نرم افزاری وجود ندارد.',
-    'developer'             => 'آیا شما یک توسعه دهنده هستید؟<a href="https://akaunting.com/blog/akaunting-app-store" target="_blank">با مراجعه به سایت فروشگاهی می توانید نرم افزار های خود را بسیازید و بفروشید.</a>',
+    'developer'             => 'آیا شما یک توسعه دهنده هستید؟<a href="http://127.0.0.1:8000/blog/akaunting-app-store" target="_blank">با مراجعه به سایت فروشگاهی می توانید نرم افزار های خود را بسیازید و بفروشید.</a>',
 
     'recommended_apps'      => 'برنامه‌های توصیه شده',
 

@@ -12,9 +12,9 @@ return [
     'search'                => 'Paieška',
     'install'               => 'Įrašyti',
     'buy_now'               => 'Pirkti dabar',
-    'token_link'            => '<a href="https://akaunting.com/tokens" target="_blank">Spauskite čia</a>, kad gautumėte savo API raktą.',
+    'token_link'            => '<a href="http://127.0.0.1:8000/tokens" target="_blank">Spauskite čia</a>, kad gautumėte savo API raktą.',
     'no_apps'               => 'Nėra programėlių šioje kategorijoje.',
-    'developer'             => 'Ar esate kūrėjas? <a href="https://akaunting.com/blog/akaunting-app-store" target="_blank">Čia</a> galite sužinoti, kaip sukurti programėlę ir pradėti pardavinėti šiandien!',
+    'developer'             => 'Ar esate kūrėjas? <a href="http://127.0.0.1:8000/blog/akaunting-app-store" target="_blank">Čia</a> galite sužinoti, kaip sukurti programėlę ir pradėti pardavinėti šiandien!',
 
     'recommended_apps'      => 'Rekomenduojamos programėlės',
 

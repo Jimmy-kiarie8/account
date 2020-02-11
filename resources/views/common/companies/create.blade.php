@@ -43,5 +43,5 @@
 @endsection
 
 @push('scripts_start')
-    <script src="{{ asset('public/js/common/companies.js?v=' . version('short')) }}"></script>
+    <script src="{{ asset('js/common/companies.js?v=' . version('short')) }}"></script>
 @endpush

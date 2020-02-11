@@ -37,5 +37,5 @@
 @endsection
 
 @push('scripts_start')
-    <script src="{{ asset('public/js/settings/taxes.js?v=' . version('short')) }}"></script>
+    <script src="{{ asset('js/settings/taxes.js?v=' . version('short')) }}"></script>
 @endpush

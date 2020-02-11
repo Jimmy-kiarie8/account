@@ -621,6 +621,6 @@
 @endpush
 
 @push('scripts_start')
-    <script src="{{ asset('public/js/purchases/bills.js?v=' . version('short')) }}"></script>
+    <script src="{{ asset('js/purchases/bills.js?v=' . version('short')) }}"></script>
 @endpush
 

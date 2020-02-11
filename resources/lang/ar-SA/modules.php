@@ -13,9 +13,9 @@ return [
     'search'                => 'بحث',
     'install'               => 'تثبيت',
     'buy_now'               => 'الشراء الآن',
-    'token_link'            => '<a href="https://akaunting.com/tokens" target="_blank">اضغط هنا</a> للحصول على رمز الوصول الخاص بك API.',
+    'token_link'            => '<a href="http://127.0.0.1:8000/tokens" target="_blank">اضغط هنا</a> للحصول على رمز الوصول الخاص بك API.',
     'no_apps'               => 'لا توجد تطبيقات فى هذه الفئة حتى الآن.',
-    'developer'             => 'هل أنت مطوّر؟ <a href="https://akaunting.com/blog/akaunting-app-store" target="_blank"> هنا</a> يمكنك أن تتعلم كيفية إنشاء تطبيق وبدء البيع من اليوم!',
+    'developer'             => 'هل أنت مطوّر؟ <a href="http://127.0.0.1:8000/blog/akaunting-app-store" target="_blank"> هنا</a> يمكنك أن تتعلم كيفية إنشاء تطبيق وبدء البيع من اليوم!',
 
     'recommended_apps'      => 'Recommended Apps',
 

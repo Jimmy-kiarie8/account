@@ -133,5 +133,5 @@
 @endsection
 
 @push('scripts_start')
-    <script src="{{ asset('public/js/banking/reconciliations.js?v=' . version('short')) }}"></script>
+    <script src="{{ asset('js/banking/reconciliations.js?v=' . version('short')) }}"></script>
 @endpush

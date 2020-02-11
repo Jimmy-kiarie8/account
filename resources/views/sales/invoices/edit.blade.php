@@ -207,5 +207,5 @@
         var invoice_items = {!! json_encode($invoice->items()->get()) !!};
     </script>
 
-    <script src="{{ asset('public/js/sales/invoices.js?v=' . version('short')) }}"></script>
+    <script src="{{ asset('js/sales/invoices.js?v=' . version('short')) }}"></script>
 @endpush

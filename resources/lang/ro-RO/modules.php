@@ -12,9 +12,9 @@ return [
     'search'                => 'Cauta',
     'install'               => 'Instalează',
     'buy_now'               => 'Cumpara acum',
-    'token_link'            => '<a href="https://akaunting.com/tokens" target="_blank">Click aici</a> pentru a obtine token API.',
+    'token_link'            => '<a href="http://127.0.0.1:8000/tokens" target="_blank">Click aici</a> pentru a obtine token API.',
     'no_apps'               => 'Inca nu exista aplicatii in aceasta categorie.',
-    'developer'             => 'Esti un dezvoltator de aplicatii? <a href="https://akaunting.com/blog/akaunting-app-store" target="_blank">Aici</a> poti afla cum sa creezi o aplicatie si sa incepi sa vinzi astazi!',
+    'developer'             => 'Esti un dezvoltator de aplicatii? <a href="http://127.0.0.1:8000/blog/akaunting-app-store" target="_blank">Aici</a> poti afla cum sa creezi o aplicatie si sa incepi sa vinzi astazi!',
 
     'recommended_apps'      => 'Aplicaţii recomandate',
 

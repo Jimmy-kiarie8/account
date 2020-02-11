@@ -13,9 +13,9 @@ return [
     'search'                => 'ძიება',
     'install'               => 'დაყენება',
     'buy_now'               => 'ახლავე ყიდვა',
-    'token_link'            => '<a href="https://akaunting.com/tokens" target="_blank">აქ დააჭირეთ</a> რომ მიიღოთ თქვენი API ნიშანი.',
+    'token_link'            => '<a href="http://127.0.0.1:8000/tokens" target="_blank">აქ დააჭირეთ</a> რომ მიიღოთ თქვენი API ნიშანი.',
     'no_apps'               => 'ამ კატეგორიაში აპლიკაციები არ არის.',
-    'developer'             => 'თქვენ ხართ შემქმნელი? <a href="https://akaunting.com/blog/akaunting-app-store" target="_blank">აქ</a> შეგიძლიათ გაიგოთ, თუ როგორ შექმნათ აპლიკაცია და დაიწყე გაყიდვა დღესვე!',
+    'developer'             => 'თქვენ ხართ შემქმნელი? <a href="http://127.0.0.1:8000/blog/akaunting-app-store" target="_blank">აქ</a> შეგიძლიათ გაიგოთ, თუ როგორ შექმნათ აპლიკაცია და დაიწყე გაყიდვა დღესვე!',
 
     'recommended_apps'      => 'რეკომენდირებული აპლიკაცია',
 

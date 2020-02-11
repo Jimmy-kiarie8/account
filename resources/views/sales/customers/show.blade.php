@@ -176,5 +176,5 @@
 @endsection
 
 @push('scripts_start')
-    <script src="{{ asset('public/js/sales/customers.js?v=' . version('short')) }}"></script>
+    <script src="{{ asset('js/sales/customers.js?v=' . version('short')) }}"></script>
 @endpush

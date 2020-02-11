@@ -21,7 +21,7 @@
     {{-- Footer --}}
     @slot('footer')
         @component('mail::footer')
-            &copy; {{ date('Y') }} {{ setting('company.name', config('mail.from.name', config('app.name'))) }}. All rights reserved.
+            &copy; {{ new Date().getFullYear() }} {{ date('Y') }} {{ setting('company.name', config('mail.from.name', config('app.name'))) }}. All rights reserved.
         @endcomponent
     @endslot
 @endcomponent

@@ -10,7 +10,7 @@ return [
         'upcoming_bills'    => '{1} :count kommande räkning|[2,*] :count kommande räkningar',
         'view_all'          => 'Visa alla'
     ],
-    'docs_link'             => 'https://akaunting.com/docs',
-    'support_link'          => 'https://akaunting.com/support',
+    'docs_link'             => 'http://127.0.0.1:8000/docs',
+    'support_link'          => 'http://127.0.0.1:8000/support',
 
 ];

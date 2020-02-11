@@ -13,9 +13,9 @@ return [
     'search'                => 'Meklēt',
     'install'               => 'Instalēt',
     'buy_now'               => 'Pirkt tagad',
-    'token_link'            => '<a href="https://akaunting.com/tokens" target="_blank">Spied šeit</a>, lai saņemtu savu API atslēgu.',
+    'token_link'            => '<a href="http://127.0.0.1:8000/tokens" target="_blank">Spied šeit</a>, lai saņemtu savu API atslēgu.',
     'no_apps'               => 'Šajā kategorijā programmu vēl nav.',
-    'developer'             => 'Vai jūs esat izstrādātājs? <a href="https://akaunting.com/blog/akaunting-app-store" target="_blank">Šeit</a> jūs varat iemācīties, kā veidot programmas un sākt tās pārdot!',
+    'developer'             => 'Vai jūs esat izstrādātājs? <a href="http://127.0.0.1:8000/blog/akaunting-app-store" target="_blank">Šeit</a> jūs varat iemācīties, kā veidot programmas un sākt tās pārdot!',
 
     'recommended_apps'      => 'Recommended Apps',
 

@@ -155,5 +155,5 @@
         var app_slug = "{{ $module->slug }}";
     </script>
 
-    <script src="{{ asset('public/js/modules/item.js?v=' . version('short')) }}"></script>
+    <script src="{{ asset('js/modules/item.js?v=' . version('short')) }}"></script>
 @endpush

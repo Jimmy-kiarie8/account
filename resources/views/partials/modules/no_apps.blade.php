@@ -6,7 +6,7 @@
                     {{ trans('modules.no_apps') }}
                 </p>
                 <p class="text-center">
-                    <small>{!! trans('modules.become_developer', ['url' => 'https://akaunting.com/developers']) !!}</small>
+                    <small>{!! trans('modules.become_developer', ['url' => 'http://127.0.0.1:8000/developers']) !!}</small>
                 </p>
             </div>
         </div>

@@ -12,9 +12,9 @@ return [
     'search'                => 'Търси',
     'install'               => 'Инсталирай',
     'buy_now'               => 'Купете сега',
-    'api_key_link'          => '<a class="text-red" href="https://akaunting.com/profile" target="_blank">Натисни тук</a>за да получиш своя API код.',
+    'api_key_link'          => '<a class="text-red" href="http://127.0.0.1:8000/profile" target="_blank">Натисни тук</a>за да получиш своя API код.',
     'no_apps'               => 'Все още няма приложения в тази категория.',
-    'developer'             => 'Вие сте разработчик? <a href="https://akaunting.com/developers" target="_blank">Тук</a> можете да разберете как да създадете приложение!',
+    'developer'             => 'Вие сте разработчик? <a href="http://127.0.0.1:8000/developers" target="_blank">Тук</a> можете да разберете как да създадете приложение!',
 
     'recommended_apps'      => 'Препоръчани Добавки',
 

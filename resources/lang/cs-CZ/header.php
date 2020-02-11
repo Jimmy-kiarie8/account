@@ -10,7 +10,7 @@ return [
         'upcoming_bills'    => '{1} :count blížící se faktura|[2,*] :count blížící se faktury',
         'view_all'          => 'Zobrazit vše'
     ],
-    'docs_link'             => 'https://akaunting.com/docs',
-    'support_link'          => 'https://akaunting.com/support',
+    'docs_link'             => 'http://127.0.0.1:8000/docs',
+    'support_link'          => 'http://127.0.0.1:8000/support',
 
 ];

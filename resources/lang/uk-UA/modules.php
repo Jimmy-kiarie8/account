@@ -12,9 +12,9 @@ return [
     'search'                => 'Пошук',
     'install'               => 'Встановити',
     'buy_now'               => 'Купити зараз',
-    'api_key_link'          => '<a href="https://akaunting.com/tokens" target="_blank">Натисніть тут</a> щоб отримати ваш API маркер.',
+    'api_key_link'          => '<a href="http://127.0.0.1:8000/tokens" target="_blank">Натисніть тут</a> щоб отримати ваш API маркер.',
     'no_apps'               => 'Немає поки що додатків у цій категорії.',
-    'developer'             => 'Ви розробник? <a href="https://akaunting.com/developers" target="_blank">Тут</a> Ви можете дізнатися, як створити додаток і почати продажі сьогодні!',
+    'developer'             => 'Ви розробник? <a href="http://127.0.0.1:8000/developers" target="_blank">Тут</a> Ви можете дізнатися, як створити додаток і почати продажі сьогодні!',
 
     'recommended_apps'      => 'Рекомендовані додатки',
 

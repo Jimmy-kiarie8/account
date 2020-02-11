@@ -144,5 +144,5 @@
         var currencies = {!! json_encode($currencies->items()) !!}
     </script>
 
-    <script src="{{ asset('public/js/wizard/currencies.js?v=' . version('short')) }}"></script>
+    <script src="{{ asset('js/wizard/currencies.js?v=' . version('short')) }}"></script>
 @endpush

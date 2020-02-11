@@ -12,9 +12,9 @@ return [
     'search'                => 'Cari',
     'install'               => 'Pasang',
     'buy_now'               => 'Beli Sekarang',
-    'api_key_link'          => '<a class="text-red" href="https://akaunting.com/profile" target="_blank">Click here</a> to get your API key.',
+    'api_key_link'          => '<a class="text-red" href="http://127.0.0.1:8000/profile" target="_blank">Click here</a> to get your API key.',
     'no_apps'               => 'Belum ada aplikasi dalam kategori ini.',
-    'developer'             => 'Are you a developer? <a href="https://akaunting.com/developers" target="_blank">Here</a> you can learn how to create an app and start selling today!',
+    'developer'             => 'Are you a developer? <a href="http://127.0.0.1:8000/developers" target="_blank">Here</a> you can learn how to create an app and start selling today!',
 
     'recommended_apps'      => 'Aplikasi yang direkomendasikan',
 

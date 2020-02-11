@@ -3,8 +3,8 @@
 return [
 
     'version'               => 'Versione',
-    'powered'               => 'Powered By Akaunting',
-    'link'                  => 'https://akaunting.com',
-    'software'              => 'Free Accounting Software',
+    'powered'               => '&copy; {{ new Date().getFullYear() }}',
+    'link'                  => 'http://127.0.0.1:8000',
+    'software'              => 'Accounting Software',
 
 ];

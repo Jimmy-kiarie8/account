@@ -12,9 +12,9 @@ return [
     'search'                => 'Pretraživanje',
     'install'               => 'Instaliraj',
     'buy_now'               => 'Kupi odmah',
-    'token_link'            => '<a href="https://akaunting.com/tokens" target="_blank">Kliknite ovdje</a> da biste dobili svoj API token.',
+    'token_link'            => '<a href="http://127.0.0.1:8000/tokens" target="_blank">Kliknite ovdje</a> da biste dobili svoj API token.',
     'no_apps'               => 'U ovoj kategoriji još nema aplikacija.',
-    'developer'             => 'Jeste li programer? <a href="https://akaunting.com/blog/akaunting-app-store" target="_blank">Ovdje</a> možete naučiti kako kreirati aplikaciju i početi prodavati!',
+    'developer'             => 'Jeste li programer? <a href="http://127.0.0.1:8000/blog/akaunting-app-store" target="_blank">Ovdje</a> možete naučiti kako kreirati aplikaciju i početi prodavati!',
 
     'recommended_apps'      => 'Recommended Apps',
 

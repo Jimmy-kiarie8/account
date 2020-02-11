@@ -13,7 +13,7 @@
         <div class="row">
             <div class="col-md-4 text-center">
                 <div class="bg-print border-radius-default print-edge choose" @click="invoice_form.template='default'">
-                    <img src="{{ asset('public/img/invoice_templates/default.png') }}" class="mb-1 mt-3" height="200" alt="Default"/>
+                    <img src="{{ asset('img/invoice_templates/default.png') }}" class="mb-1 mt-3" height="200" alt="Default"/>
                     <label>
                         <input type="radio" name="template" value="default" v-model="invoice_form.template">
                         {{ trans('settings.invoice.default') }}
@@ -23,7 +23,7 @@
 
             <div class="col-md-4 text-center px-2">
                 <div class="bg-print border-radius-default print-edge choose" @click="invoice_form.template='classic'">
-                    <img src="{{ asset('public/img/invoice_templates/classic.png') }}" class="mb-1 mt-3" height="200" alt="Classic"/>
+                    <img src="{{ asset('img/invoice_templates/classic.png') }}" class="mb-1 mt-3" height="200" alt="Classic"/>
                     <label>
                         <input type="radio" name="template" value="classic" v-model="invoice_form.template">
                         {{ trans('settings.invoice.classic') }}
@@ -33,7 +33,7 @@
 
             <div class="col-md-4 text-center px-0">
                 <div class="bg-print border-radius-default print-edge choose" @click="invoice_form.template='modern'">
-                    <img src="{{ asset('public/img/invoice_templates/modern.png') }}" class="mb-1 mt-3" height="200" alt="Modern"/>
+                    <img src="{{ asset('img/invoice_templates/modern.png') }}" class="mb-1 mt-3" height="200" alt="Modern"/>
                     <label>
                         <input type="radio" name="template" value="modern" v-model="invoice_form.template">
                         {{ trans('settings.invoice.modern') }}

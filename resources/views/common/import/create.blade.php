@@ -15,7 +15,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="alert alert-info alert-important">
-                            {!! trans('import.message', ['link' => url('public/files/import/' . $type . '.xlsx')]) !!}
+                            {!! trans('import.message', ['link' => url('files/import/' . $type . '.xlsx')]) !!}
                         </div>
                     </div>
                 </div>

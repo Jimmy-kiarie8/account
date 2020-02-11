@@ -4,7 +4,7 @@ return [
 
     'version'               => 'ورژن',
     'powered'               => 'اکاونٹانگ کی طرف سے حقوق محفوظ ہیں',
-    'link'                  => 'https://akaunting.com',
+    'link'                  => 'http://127.0.0.1:8000',
     'software'              => 'مفت اکاؤنٹنگ سافٹ ویئر',
 
 ];

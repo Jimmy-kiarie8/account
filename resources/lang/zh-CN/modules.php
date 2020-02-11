@@ -12,9 +12,9 @@ return [
     'search'                => '搜索',
     'install'               => '安装',
     'buy_now'               => '马上购买',
-    'token_link'            => '<a href="https://akaunting.com/tokens" target="_blank">点这里</a>取得您的 API token.',
+    'token_link'            => '<a href="http://127.0.0.1:8000/tokens" target="_blank">点这里</a>取得您的 API token.',
     'no_apps'               => '此分类中尚无App。',
-    'developer'             => '您是開發人員嗎？<a href="https://akaunting.com/blog/akaunting-app-store" target="_blank">這裡</a>可以幫助您學習如何建立應用程式並立即開始銷售！',
+    'developer'             => '您是開發人員嗎？<a href="http://127.0.0.1:8000/blog/akaunting-app-store" target="_blank">這裡</a>可以幫助您學習如何建立應用程式並立即開始銷售！',
 
     'recommended_apps'      => 'Recommended Apps',
 

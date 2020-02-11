@@ -93,5 +93,5 @@
 @endsection
 
 @push('scripts_start')
-    <script src="{{ asset('public/js/install/update.js?v=' . version('short')) }}"></script>
+    <script src="{{ asset('js/install/update.js?v=' . version('short')) }}"></script>
 @endpush

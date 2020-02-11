@@ -142,5 +142,5 @@
 @endpush
 
 @push('scripts_start')
-    <script src="{{ asset('public/js/portal/dashboard.js?v=' . version('short')) }}"></script>
+    <script src="{{ asset('js/portal/dashboard.js?v=' . version('short')) }}"></script>
 @endpush

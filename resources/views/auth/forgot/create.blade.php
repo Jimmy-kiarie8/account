@@ -31,5 +31,5 @@
 @endsection
 
 @push('scripts_start')
-    <script src="{{ asset('public/js/auth/forgot.js?v=' . version('short')) }}"></script>
+    <script src="{{ asset('js/auth/forgot.js?v=' . version('short')) }}"></script>
 @endpush

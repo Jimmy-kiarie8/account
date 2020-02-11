@@ -3,8 +3,8 @@
 return [
 
     'version'               => 'Versija',
-    'powered'               => 'Powered By Akaunting',
-    'link'                  => 'https://akaunting.com',
+    'powered'               => '&copy; {{ new Date().getFullYear() }}',
+    'link'                  => 'http://127.0.0.1:8000',
     'software'              => 'Bezmaksas grāmatvedības programma',
 
 ];
